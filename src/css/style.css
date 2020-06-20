@@ -1,0 +1,45 @@
+.main-header{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.home {
+    text-decoration: none;
+    color: black;
+}
+
+.search {
+    text-decoration: none;
+    color: black;
+}
+
+.portfolio {
+    text-decoration: none;
+    color: black;
+}
+
+.main-portfolio-div {
+    width: 50vw;
+    height: 50vh;
+    background-color: rgb(235, 231, 231);
+}
+
+.details-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-div-1{
+    margin-top: 5%;
+}
+
+.details-div-2{
+    margin-top: 5%;
+}
+
+.details-company-name{
+    display: flex;
+    justify-content: center;
+}
